@@ -1,0 +1,36 @@
+body{
+background-color:whitesmoke;
+}
+header{
+background-color: grey;
+ color: whitesmoke; 
+}
+nav{
+float: left;
+background-color: bisque;
+height: 6em;
+width: 5em;
+}
+section{
+float: left;
+background-color: whitesmoke;
+font-family: 'Times New Roman', Times, serif;
+}
+aside{
+float: left;
+background-color: blueviolet;
+height: 6em;
+width: 5em;
+}
+h4{
+ font-size: smaller;
+}
+figcaption{
+font-size: smaller
+}
+.p-intro::first-letter{
+    font-size: 26px;
+
+}
+
+
